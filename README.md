@@ -2,7 +2,7 @@
 - 👀 I’m interested in travel, Premiere League, and video games.
 - 🌱 I’m currently learning Meta Back End courses.
 - 💞️ I’m looking to collaborate on anything that will help me learn and achieve more.
-- 📫 How to reach me via e-mail, and here!
+- 📫 How to reach me via e-mail, and I have my Instagram linked.
 
 <!---
 notLAP/notLAP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
